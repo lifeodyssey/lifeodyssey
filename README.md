@@ -2,7 +2,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ocean color remote sneing.
-- 🌱 I’m currently learning naive bayes, machine learning, biological oceanography and remote sensing.
+- 🌱 I’m currently learning machine learning, biological oceanography and remote sensing.
 - 👯 I’m looking to collaborate on marine science, remote sensing, fishery science.
 - 📫 How to reach me: zhenjiazhou0127@outlook.com
 
