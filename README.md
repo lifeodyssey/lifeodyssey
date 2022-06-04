@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a software developer with special experience on ocean color remote sneing.
+- 🔭 I’m a software developer with special experience on ocean color remote sensing.
 - 🌱 I’m currently learning ocean optics, atmospheric correction and web development.
 - 👯 I’m looking to collaborate on the open source of ocean color code.
 - 📫 How to reach me: zhenjiazhou0127@outlook.com
