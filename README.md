@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m a software developer with special experience on ocean color remote sneing.
 - 🌱 I’m currently learning ocean optics, atmospheric correction and web development.
