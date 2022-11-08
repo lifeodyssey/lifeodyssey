@@ -13,7 +13,6 @@
 
 - 📝 I regularly write articles on [https://lifeodyssey.github.io/](https://lifeodyssey.github.io/)
 
-- 💬 Ask me about **Carrer Transition, Ocean Color and Nature Science Academic**
 
 - 📫 How to reach me **zhenjiazhou0127@outlook.com**
 
