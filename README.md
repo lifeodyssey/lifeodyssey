@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeodyssey&label=Profile%20views&color=0e75b6&style=flat" alt="lifeodyssey" /> </p>
 
-- 🔭 I’m currently working on **in backend Development**
+- 🔭 I’m currently working on **in backend development**
 
 - 🌱 I’m currently learning **Spring, MongoDB, Terraform**
 
