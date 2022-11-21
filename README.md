@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhenjia Zhou</h1>
-<h3 align="center">A junior backend developer@Thoughtworks with experience in ocean color remote sensing</h3>
+<h3 align="center">A junior backend developer@Thoughtworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeodyssey&label=Profile%20views&color=0e75b6&style=flat" alt="lifeodyssey" /> </p>
 
