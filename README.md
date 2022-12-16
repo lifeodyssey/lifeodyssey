@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **Spring Boot & Spring Cloud, MongoDB, Terraform, Go and Kubernetes**
 
-- 👯 I’m looking to collaborate on [Ocean Color Documentation](https://github.com/lifeodyssey/Aquatic-Remote-Sensing-Tutorial-by-python)
-
+<!-- - 👯 I’m looking to collaborate on [Ocean Color Documentation](https://github.com/lifeodyssey/Aquatic-Remote-Sensing-Tutorial-by-python)
+ -->
 - 👨‍💻 All of my projects are available at [https://github.com/lifeodyssey?tab=repositories](https://github.com/lifeodyssey?tab=repositories)
 
 - 📝 I regularly write articles on [https://lifeodyssey.github.io/](https://lifeodyssey.github.io/)
