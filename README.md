@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **zhenjiazhou0127@outlook.com**
 
-<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/%E6%8C%AF%E4%BD%B3-%E5%91%A8-8326b4155/](https://www.linkedin.com/in/%E6%8C%AF%E4%BD%B3-%E5%91%A8-8326b4155/) -->
+<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/zhenjia-zhou/](https://www.linkedin.com/in/zhenjia-zhou/) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
