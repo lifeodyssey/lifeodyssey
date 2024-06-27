@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zhenjia Zhou</h1>
-<h3 align="center">A junior backend developer@Thoughtworks</h3>
+<h3 align="center">A backend developer@Thoughtworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeodyssey&label=Profile%20views&color=0e75b6&style=flat" alt="lifeodyssey" /> </p>
 
-- 🔭 I’m currently working in **micro-service architecture, cloud native and system design** 
+- 🔭 I’m currently working in **micro-service development and cloud native** 
 
-- 🌱 I’m currently learning **Spring Boot & Spring Cloud, MongoDB, Terraform, Go and Kubernetes**
+- 🌱 I’m currently learning **Spring Boot, AWS, Go and Kubernetes**
 
 <!-- - 👯 I’m looking to collaborate on [Ocean Color Documentation](https://github.com/lifeodyssey/Aquatic-Remote-Sensing-Tutorial-by-python)
  -->
