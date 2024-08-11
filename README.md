@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **micro-service development and cloud native** 
 
-- 🌱 I’m currently learning **Spring Boot, AWS, Go and Kubernetes**
+- 🌱 I’m currently learning ** AWS**
 
 <!-- - 👯 I’m looking to collaborate on [Ocean Color Documentation](https://github.com/lifeodyssey/Aquatic-Remote-Sensing-Tutorial-by-python)
  -->
