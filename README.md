@@ -48,11 +48,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=lifeodyssey&theme=dracula&column=7&margin-w=15&margin-h=15" alt="lifeodyssey's trophies" />
   </a>
 
-  <br/>
-
-  <a href="https://github.com/lifeodyssey">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lifeodyssey&theme=tokyo-night&area=true&hide_border=true" alt="lifeodyssey's contribution graph" />
-  </a>
 
   <br/>
 
