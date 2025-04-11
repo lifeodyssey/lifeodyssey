@@ -31,7 +31,7 @@
 
   <a href="https://github.com/lifeodyssey">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lifeodyssey&show_icons=true&theme=radical&include_all_commits=false&count_private=true&hide=issues,contribs" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeodyssey&layout=compact&langs_count=6&theme=radical&hide=html,css,jupyter%20notebook&exclude_repo=lifeodyssey.github.io,Aquatic-Remote-Sensing-Tutorial-by-python&card_width=320" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeodyssey&layout=compact&langs_count=6&theme=radical&hide=html,css,scss,python,jupyter%20notebook&exclude_repo=lifeodyssey.github.io,Aquatic-Remote-Sensing-Tutorial-by-python&card_width=320" />
   </a>
 
   <!-- Note: Top languages shows data from the last five years only and does not indicate my skill level or proficiency -->
