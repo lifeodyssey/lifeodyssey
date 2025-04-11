@@ -30,11 +30,11 @@
   <h2>📊 GitHub Stats</h2>
 
   <a href="https://github.com/lifeodyssey">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lifeodyssey&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lifeodyssey&show_icons=true&theme=radical&include_all_commits=false&count_private=true&hide=issues,contribs" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeodyssey&layout=compact&langs_count=6&theme=radical&hide=html,css,jupyter%20notebook&exclude_repo=lifeodyssey.github.io,Aquatic-Remote-Sensing-Tutorial-by-python&card_width=320" />
   </a>
 
-  <!-- Note: Top languages does not indicate my skill level or proficiency, it's merely a metric of which languages I have used most in my GitHub repositories over the last few years -->
+  <!-- Note: Top languages shows data from the last five years only and does not indicate my skill level or proficiency -->
 
   <br/>
 
