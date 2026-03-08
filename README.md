@@ -5,13 +5,13 @@
 
 - 🔭 I'm currently working in **micro-service development and cloud native**
 
-- 🌱 I'm currently learning **AWS**
+- 🌱 I'm currently learning **Agentic AI**
 
 <!-- - 👯 I'm looking to collaborate on [Ocean Color Documentation](https://github.com/lifeodyssey/Aquatic-Remote-Sensing-Tutorial-by-python)
  -->
 - 👨‍💻 All of my projects are available at [https://github.com/lifeodyssey?tab=repositories](https://github.com/lifeodyssey?tab=repositories)
 
-- 📝 I regularly write articles on [https://lifeodyssey.github.io/](https://lifeodyssey.github.io/)
+- 📝 I regularly write articles on [https://zhenjia.org/](https://zhenjia.org/)
 
 
 - 📫 How to reach me **zhenjiazhou0127@outlook.com**
