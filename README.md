@@ -1,57 +1,128 @@
 <h1 align="center">Hi 👋, I'm Zhenjia Zhou</h1>
-<h3 align="center">A backend developer@Thoughtworks</h3>
+<h3 align="center">Backend Engineer | Cloud Infrastructure | Agentic AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeodyssey&label=Profile%20views&color=0e75b6&style=flat" alt="lifeodyssey" /> </p>
-
-- 🔭 I'm currently working in **micro-service development and cloud native**
-
-- 🌱 I'm currently learning **Agentic AI**
-
-<!-- - 👯 I'm looking to collaborate on [Ocean Color Documentation](https://github.com/lifeodyssey/Aquatic-Remote-Sensing-Tutorial-by-python)
- -->
-- 👨‍💻 All of my projects are available at [https://github.com/lifeodyssey?tab=repositories](https://github.com/lifeodyssey?tab=repositories)
-
-- 📝 I regularly write articles on [https://zhenjia.org/](https://zhenjia.org/)
-
-
-- 📫 How to reach me **zhenjiazhou0127@outlook.com**
-
-<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/zhenjia-zhou/](https://www.linkedin.com/in/zhenjia-zhou/) -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zhenjia zhou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhenjia zhou" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/lifeodyssey">
+    <img src="https://komarev.com/ghpvc/?username=lifeodyssey&label=Profile%20views&color=0e75b6&style=flat" alt="lifeodyssey" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
+## About Me
 
-  <a href="https://github.com/lifeodyssey">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lifeodyssey&show_icons=true&theme=radical&include_all_commits=false&count_private=true&hide=issues,contribs" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeodyssey&layout=compact&langs_count=6&theme=radical&hide=html,css,scss,jupyter%20notebook&exclude_repo=lifeodyssey.github.io,Aquatic-Remote-Sensing-Tutorial-by-python,py-fire-level&card_width=320" />
+I'm a backend-focused software engineer currently working at **Thoughtworks**.
+
+My experience centers around **backend development**, **cloud-native systems**, **infrastructure automation**, and **DevOps practices**. I enjoy building systems that are not only functional, but also maintainable, scalable, and well-structured.
+
+My core stack includes **Java**, **Kotlin**, **Python**, **Spring Boot**, **FastAPI**, **AWS**, **Terraform**, and **PostgreSQL**.
+
+Recently, I’ve also been actively exploring **Agentic AI**, **RAG**, and practical **AI engineering workflows** through writing and side projects.
+
+---
+
+## Current Focus
+
+- Backend systems and API development
+- Cloud infrastructure and CI/CD automation
+- Agentic AI and practical LLM applications
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-282C34?logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" />
+</p>
+
+### Cloud / Infra / DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Terraform-282C34?logo=terraform&logoColor=844FBA" />
+  <img src="https://img.shields.io/badge/Terragrunt-282C34?logo=terraform&logoColor=6B57FF" />
+  <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-282C34?logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" />
+</p>
+
+### Data / Search
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/OpenSearch-282C34?logo=opensearch&logoColor=005EB8" />
+</p>
+
+### AI / LLM
+<p>
+  <img src="https://img.shields.io/badge/Agentic%20AI-282C34?logo=openai&logoColor=10A37F" />
+  <img src="https://img.shields.io/badge/RAG-282C34?logo=semanticweb&logoColor=5A67D8" />
+  <img src="https://img.shields.io/badge/LangChain-282C34?logo=chainlink&logoColor=2A5ADA" />
+  <img src="https://img.shields.io/badge/LlamaIndex-282C34?logo=llama&logoColor=8E44AD" />
+</p>
+
+---
+
+## Writing & Projects
+
+- 📝 Blog: [zhenjia.org](https://zhenjia.org/)
+- 👨‍💻 GitHub: [github.com/lifeodyssey](https://github.com/lifeodyssey?tab=repositories)
+- ✍️ I write about AI, backend engineering, and practical developer tooling
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/zhenjia-zhou" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Zhenjia%20Zhou-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-
-  <!-- Note: Top languages shows data from the last five years only and does not indicate my skill level or proficiency -->
-
-  <br/>
-
-  <a href="https://github.com/lifeodyssey">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lifeodyssey&theme=tokyonight" alt="lifeodyssey's streak stats" />
+  <a href="https://github.com/lifeodyssey" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@lifeodyssey-181717?logo=github&logoColor=white" />
   </a>
+</p>
 
-  <br/>
+---
 
-  <a href="https://github.com/lifeodyssey">
-    <img src="https://github-profile-trophy.vercel.app/?username=lifeodyssey&theme=dracula&column=7&margin-w=15&margin-h=15" alt="lifeodyssey's trophies" />
-  </a>
+## GitHub Stats
 
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lifeodyssey&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeodyssey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lifeodyssey&theme=tokyonight&hide_border=true" />
+</p>
 
-  <a href="https://github.com/lifeodyssey">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifeodyssey&theme=monokai" alt="lifeodyssey's profile details" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lifeodyssey&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifeodyssey&theme=tokyonight" />
+</p>
+
+---
+
+## A Few Things I Care About
+
+- Clean and maintainable backend design
+- Practical infrastructure automation
+- Scalable cloud-native systems
+- Applying AI to real software engineering workflows
+
+---
+
+## Quote
+
+> I enjoy building maintainable systems and exploring how AI can improve real software engineering workflows.
