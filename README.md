@@ -140,7 +140,7 @@ I write mainly in Chinese, with English and Japanese versions for selected posts
   </picture>
 </p>
 
---
+---
 
 ## Quote
 
