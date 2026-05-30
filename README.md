@@ -86,9 +86,16 @@ I write mainly in Chinese, with English and Japanese versions for selected posts
 
 ## 🧰 Working Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,ts,spring,fastapi,postgres,redis,aws,terraform,docker,githubactions,linux,cloudflare&theme=dark" alt="Java, Kotlin, Python, TypeScript, Spring, FastAPI, PostgreSQL, Redis, AWS, Terraform, Docker, GitHub Actions, Linux, Cloudflare" />
-</p>
+| Layer | Tools |
+|---|---|
+| Primary languages | Kotlin, Java, TypeScript, Python |
+| TypeScript backend | Node.js, NestJS, Express.js |
+| Backend frameworks | Spring Boot, FastAPI |
+| Data and cache | PostgreSQL, Redis |
+| Infrastructure and cloud | AWS, Cloudflare, Terraform, Terragrunt, Pulumi, Docker, Kubernetes |
+| Delivery automation | GitHub Actions |
+
+Frontend is not my main specialty. When a product needs a frontend, I usually build it with AI-assisted workflows and keep my attention on backend boundaries, cloud infrastructure, and delivery reliability.
 
 ---
 
