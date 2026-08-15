@@ -44,6 +44,7 @@ I care about boring reliability, clear boundaries, observable behavior, and tool
 
 | Project | Why it matters | Core proof |
 |---|---|---|
+| [dsh-compressor](https://github.com/lifeodyssey/dsh-compressor) | Cut up to 20% of DeepSeek Harness context without hurting the model or breaking the prefix cache. | In-process plugin, official crushers, `compressor_retrieve` |
 | [Seichijunrei Agent](https://github.com/lifeodyssey/Seichijunrei-agent) | A real agentic product for anime pilgrimage search and route planning, where multilingual queries, geo retrieval, route constraints, and user experience have to meet in one system. | Agent workflow, geo retrieval, route planning, Supabase/PostGIS, Cloudflare deployment |
 | [ShareHTML](https://github.com/lifeodyssey/share-html) | A cloud-hosted tool for uploading a single HTML file and sharing it through a sandboxed, moderated preview URL. | Cloudflare Workers, Supabase, auth flow, expiry rules, scanner/moderation workflow |
 | [Agent Patterns Lab](https://github.com/lifeodyssey/agent-patterns-lab) | An offline-first reference implementation for agent design patterns, from function calling and structured output to ReAct, workflow loops, multi-agent systems, and eval harnesses. | Runnable examples, MockLLM, tests, docs, Cloudflare Pages |
