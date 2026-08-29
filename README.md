@@ -33,7 +33,6 @@ I care about boring reliability, clear boundaries, observable behavior, and tool
 
 | Area | What I build | Evidence |
 |---|---|---|
-| Agent workflow harnesses | Patterns, skills, plugins, orchestration loops, and evaluation scaffolds for coding agents. | [Agent Patterns Lab](https://github.com/lifeodyssey/agent-patterns-lab), [Alloy](https://github.com/lifeodyssey/alloy), [Reins](https://github.com/lifeodyssey/reins) |
 | Cloud-hosted developer tools | Small products that combine backend boundaries, deployment automation, moderation, and operational constraints. | [ShareHTML](https://github.com/lifeodyssey/share-html), Cloudflare Workers, Supabase, GitHub Actions |
 | Practical AI products | Agentic applications where retrieval, planning, UX, and deployment have to work together. | [Seichijunrei Agent](https://github.com/lifeodyssey/Seichijunrei-agent) |
 | Writing and workflow design | Notes on context engineering, cost control, agent skills, and multilingual publishing. | [zhenjia.dev](https://zhenjia.dev/) |
@@ -47,19 +46,10 @@ I care about boring reliability, clear boundaries, observable behavior, and tool
 | [dsh-compressor](https://github.com/lifeodyssey/dsh-compressor) | Cut up to 20% of DeepSeek Harness context without hurting the model or breaking the prefix cache. | In-process plugin, official crushers, `compressor_retrieve` |
 | [Seichijunrei Agent](https://github.com/lifeodyssey/Seichijunrei-agent) | A real agentic product for anime pilgrimage search and route planning, where multilingual queries, geo retrieval, route constraints, and user experience have to meet in one system. | Agent workflow, geo retrieval, route planning, Supabase/PostGIS, Cloudflare deployment |
 | [ShareHTML](https://github.com/lifeodyssey/share-html) | A cloud-hosted tool for uploading a single HTML file and sharing it through a sandboxed, moderated preview URL. | Cloudflare Workers, Supabase, auth flow, expiry rules, scanner/moderation workflow |
-| [Agent Patterns Lab](https://github.com/lifeodyssey/agent-patterns-lab) | An offline-first reference implementation for agent design patterns, from function calling and structured output to ReAct, workflow loops, multi-agent systems, and eval harnesses. | Runnable examples, MockLLM, tests, docs, Cloudflare Pages |
 | [Retypeset Odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | A trilingual Astro theme powering [zhenjia.dev](https://zhenjia.dev/), built around MDX, i18n, search, redirects, and translation workflow support. | Astro theme, multilingual publishing, Pagefind, Cloudflare Pages |
 
 ---
 
-## 🧪 Labs and Side Projects
-
-| Project | Direction |
-|---|---|
-| [Alloy](https://github.com/lifeodyssey/alloy) | Runtime-neutral distribution layer for AI coding agent workflows, materializing curated skills, agents, commands, plugins, MCPs, and workflow state into OpenCode projects. |
-| [Reins](https://github.com/lifeodyssey/reins) | Harness engineering framework and multi-agent sprint orchestrator plugin for Claude Code. |
-| [Craftsmanship Skills](https://github.com/lifeodyssey/craftsmanship-skills) | Agent skills distilled from Clean Code and Refactoring, bringing software craftsmanship into AI coding agents. |
-| [Animal Island UI](https://github.com/lifeodyssey/animal-island-ui) | Animal Crossing-inspired React component library built with Tailwind CSS, Radix UI, Storybook, tests, and publishing workflow. |
 
 ---
 
