@@ -1,12 +1,12 @@
 <!--
   GitHub Profile README for lifeodyssey
-  Focus: Backend Engineering · Cloud Infrastructure · Agentic Engineering
+  Focus: Voice Agents · Backend Engineering · Cloud Infrastructure
 -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0F172A,50:1E293B,100:0EA5E9&text=Zhenjia%20Zhou&fontColor=E2E8F0&fontSize=48&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Agentic%20Engineering&descSize=18&descAlignY=58&animation=fadeIn"
-    alt="Zhenjia Zhou - Backend Engineer | Cloud Infrastructure | Agentic Engineering"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0F172A,50:1E293B,100:0EA5E9&text=Zhenjia%20Zhou&fontColor=E2E8F0&fontSize=48&fontAlignY=38&desc=Voice%20Agents%20%7C%20Backend%20Engineering%20%7C%20Cloud%20Infrastructure&descSize=18&descAlignY=58&animation=fadeIn"
+    alt="Zhenjia Zhou - Voice Agents | Backend Engineering | Cloud Infrastructure"
   />
 </p>
 
@@ -21,71 +21,46 @@
 
 ## 👋 About
 
-I'm a backend-focused software engineer at **Thoughtworks**. I build reliable backend systems, cloud delivery workflows, and practical AI engineering tools that can survive real production pressure.
+I'm a software engineer on the **Voice Agent team at WATI**, based in Shenzhen. Previously, I spent over four years at **Thoughtworks**, working on backend systems and cloud infrastructure.
 
-My current focus is **agentic engineering**: coding-agent harnesses, context-aware developer tooling, multi-agent workflow design, token budgeting, and the infrastructure needed to make AI useful in everyday software delivery.
-
-I care about boring reliability, clear boundaries, observable behavior, and tools that help teams move faster without making the codebase harder to change.
-
----
+I enjoy working across services, infrastructure, and delivery. These days, I'm focused on voice agents and the engineering around them: harness design, context management, tool integration, and reliability. I share experiments and longer technical notes on [zhenjia.dev](https://zhenjia.dev/).
 
 ## 🔎 Current Focus
 
-| Area | What I build | Evidence |
-|---|---|---|
-| Cloud-hosted developer tools | Small products that combine backend boundaries, deployment automation, moderation, and operational constraints. | [ShareHTML](https://github.com/lifeodyssey/share-html), Cloudflare Workers, Supabase, GitHub Actions |
-| Practical AI products | Agentic applications where retrieval, planning, UX, and deployment have to work together. | [Seichijunrei Agent](https://github.com/lifeodyssey/Seichijunrei-agent) |
-| Writing and workflow design | Notes on context engineering, cost control, agent skills, and multilingual publishing. | [zhenjia.dev](https://zhenjia.dev/) |
+- **Voice agents** — real-time interactions, latency, and reliable service integration.
+- **Agent infrastructure** — harnesses, context engineering, memory, and tool boundaries.
+- **Developer workflows** — coding agents, evaluation, observability, and cost control.
 
----
+## 🛠 Selected Projects
 
-## 🚀 Flagship Work
-
-| Project | Why it matters | Core proof |
-|---|---|---|
-| [dsh-compressor](https://github.com/lifeodyssey/dsh-compressor) | Cut up to 20% of DeepSeek Harness context without hurting the model or breaking the prefix cache. | In-process plugin, official crushers, `compressor_retrieve` |
-| [Seichijunrei Agent](https://github.com/lifeodyssey/Seichijunrei-agent) | A real agentic product for anime pilgrimage search and route planning, where multilingual queries, geo retrieval, route constraints, and user experience have to meet in one system. | Agent workflow, geo retrieval, route planning, Supabase/PostGIS, Cloudflare deployment |
-| [ShareHTML](https://github.com/lifeodyssey/share-html) | A cloud-hosted tool for uploading a single HTML file and sharing it through a sandboxed, moderated preview URL. | Cloudflare Workers, Supabase, auth flow, expiry rules, scanner/moderation workflow |
-| [Retypeset Odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | A trilingual Astro theme powering [zhenjia.dev](https://zhenjia.dev/), built around MDX, i18n, search, redirects, and translation workflow support. | Astro theme, multilingual publishing, Pagefind, Cloudflare Pages |
-
----
-
-
----
+| Project | What it does |
+|---|---|
+| [Animichi](https://github.com/lifeodyssey/animichi) | An anime pilgrimage app with conversational search, maps, and route planning in Japanese, English, and Chinese. |
+| [dsh-compressor](https://github.com/lifeodyssey/dsh-compressor) | A DeepSeek Harness plugin adapted from Headroom that compresses tool output, leaves cached prefixes unchanged, and lets agents retrieve the originals. |
+| [Share HTML](https://github.com/lifeodyssey/share-html) | Share a single HTML file through a sandboxed preview, with unlisted public links and access-key-protected private links. |
+| [Retypeset Odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | An Astro theme extended from Retypeset, with multilingual publishing, npm distribution, and guidance for coding agents. Powers [my blog](https://zhenjia.dev/). |
 
 ## ✍️ Selected Writing
 
 I write mainly in Chinese, with English and Japanese versions for selected posts.
 
+- [从前后端到 Agent 开发的转行指南](https://zhenjia.dev/posts/frontend-backend-to-agent-career-guide) *(Chinese)*  
+  A guide to agent engineering, organized around the problems a harness needs to solve.
+
+- [The deepseek of DeepSeek Harness: Overengineering or built for self-evolution?](https://zhenjia.dev/en/posts/the-deepseek-of-deepseek-harness)  
+  A close look at harness boundaries, plugin architecture, and the trade-offs behind agent self-evolution.
+
 - [How to Optimize Coding Agent Costs](https://zhenjia.dev/en/posts/coding-agent-cost-optimization)  
-  Research notes from prompt cache to context engineering, token budgeting, model tiering, and cost observability.  
+  Research notes on prompt caching, context selection and compression, model tiering, and persistent memory.  
   [中文](https://zhenjia.dev/posts/coding-agent-cost-optimization) · [日本語](https://zhenjia.dev/ja/posts/coding-agent-cost-optimization)
 
-- [Understanding Claude Code's Skills and Plugins](https://zhenjia.dev/en/posts/claude-code-skills-plugins-guide)  
-  A developer-oriented explanation of skills, plugins, tools, and agent workflow design.  
-  [中文](https://zhenjia.dev/posts/claude-code-skills-plugins-guide) · [日本語](https://zhenjia.dev/ja/posts/claude-code-skills-plugins-guide)
+## 🧰 Tools I Work With
 
-- [I Built a Translation Agent for My Blog Without Writing Code](https://zhenjia.dev/en/posts/blog-translation-agent-without-code)  
-  A practical experiment in using an agent to automate a real multilingual publishing workflow.  
-  [中文](https://zhenjia.dev/posts/blog-translation-agent-without-code) · [日本語](https://zhenjia.dev/ja/posts/blog-translation-agent-without-code)
+Kotlin / Java, Python, and TypeScript; Spring Boot and PostgreSQL; AWS, Cloudflare, and Terraform. I care about clear service boundaries, useful tests, and systems that are straightforward to operate.
 
-- [My Core Agent Coding Workflow](https://zhenjia.dev/en/posts/my-core-agentic-coding-workflow-on-2025-12-8)  
-  Notes on using coding agents in personal projects and evolving an agent-first development workflow.  
-  [中文](https://zhenjia.dev/posts/my-core-agentic-coding-workflow-on-2025-12-8) · [日本語](https://zhenjia.dev/ja/posts/my-core-agentic-coding-workflow-on-2025-12-8)
+## 🌌 Beyond Code
 
----
-
-## 🧰 Working Stack
-
-| Layer | Tools |
-|---|---|
-| Primary languages | Kotlin, Java, TypeScript, Python |
-| Backend frameworks and runtimes | Spring Boot, FastAPI, Node.js, NestJS, Express.js |
-| Data and cache | PostgreSQL, Redis |
-| Infrastructure and cloud | AWS, Cloudflare, Terraform, Terragrunt, Pulumi, Docker, Kubernetes |
-| CI/CD | GitHub Actions, CircleCI, Jenkins |
-
-Frontend is not my main specialty. When a product needs a frontend, I usually build it with AI-assisted workflows and keep my attention on backend boundaries, cloud infrastructure, and delivery reliability.
+Anime, live music, games, hiking, night-sky photography, and finding good food.
 
 ---
 
@@ -124,9 +99,3 @@ Frontend is not my main specialty. When a product needs a frontend, I usually bu
     </picture>
   </p>
 </details>
-
----
-
-## Quote
-
-> Build useful things. Make them reliable. Then make them easier for the next engineer to understand.
